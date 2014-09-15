@@ -1,0 +1,26 @@
+#board {
+  color: black;
+  font-family: monospace;
+  line-height: 1.5em;
+}
+
+span {
+  padding: 0.25em 0.5em;
+}
+
+.board-x {
+  color: black;
+  background: #666;
+}
+
+.board-1 {
+  color: red;
+}
+
+.board-2 {
+  color: orange;
+}
+
+.board-S {
+  color: green;
+}
